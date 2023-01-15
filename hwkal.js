@@ -28,11 +28,11 @@ global.botname = 'Aisyah-Md' //ubah jadi nama bot mu, note tanda ' gausah di hap
 global.footer = 'KhaTheDarkness' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882006212045'] // ubah aja pake nomor lu
-global.premium = ['62882006212045'] // ubah aja pake nomor lu
-global.packname = 'ItsMeKhaa' // ubah aja
-global.ownerr = ['KhaTheInvisble'] // ubaha aja
-global.author = 'ItsMeRaka?' //ubah aja
+global.owner = ['62895386209243'] // ubah aja pake nomor lu
+global.premium = ['62895386209243'] // ubah aja pake nomor lu
+global.packname = '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞' // ubah aja
+global.ownerr = ['✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞'] // ubaha aja
+global.author = '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞?' //ubah aja
 global.sessionName = './sessionye/session' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
